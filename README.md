@@ -1,0 +1,2 @@
+# wymaq-cli
+Cli plataforma
